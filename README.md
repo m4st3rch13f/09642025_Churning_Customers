@@ -12,4 +12,4 @@ The Colab notebook for this project uses Python 3.10.12. You can check the Pytho
 
 # Demonstration
 
-Visit this link for demonstration on how the model works: 
+Visit this link for demonstration on how the model in action: https://youtu.be/4nvODB-2DLU
