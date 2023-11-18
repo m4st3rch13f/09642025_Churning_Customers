@@ -9,3 +9,7 @@ This project uses Python 3.9. You can check your Python version by running pytho
 # Colab Notebook
 
 The Colab notebook for this project uses Python 3.10.12. You can check the Python version in a Colab notebook by running !python --version in a code cell.
+
+# Demonstration
+
+Visit this link for demonstration on how the model works: 
